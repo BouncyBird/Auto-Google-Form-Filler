@@ -9,11 +9,8 @@ You must have webdriver installed for your browser:
 
 [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 
-
 [Selenium](https://pypi.org/project/selenium/)
 
-
 [Requests](https://pypi.org/project/requests/)
-
 
 [PyInputPlus](https://pypi.org/project/PyInputPlus/)
