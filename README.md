@@ -17,4 +17,8 @@ On line 49, you will have to change the "executable_path" argument to the path o
 
 [PyInputPlus](https://pypi.org/project/PyInputPlus/)
 
-### [Demo](https://streamable.com/rjqd4r)
+### Demo:
+
+https://user-images.githubusercontent.com/66702878/116796409-be0e5900-aaa1-11eb-8891-11ff85d5147a.mp4
+
+[Full Quality](https://streamable.com/rjqd4r)
