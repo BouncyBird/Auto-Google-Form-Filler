@@ -19,5 +19,3 @@ On line 49, you will have to change the "executable_path" argument to the path o
 
 ### Demo:
 
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/rjqd4r" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
