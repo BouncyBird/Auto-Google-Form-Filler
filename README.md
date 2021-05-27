@@ -1,4 +1,5 @@
 # Auto-Google-Form-Filler
+A Python Google Form Filler that uses Selenium, BeautifulSoup4, and obviously the requests library. It currently only fills full name, first name, last name, and email, but can have more added.
 
 ### IMPORTANT:
 
